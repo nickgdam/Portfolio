@@ -1,5 +1,3 @@
-24d41100-74b4-4235-a495-fa187dfd86d0
-
 
 
 # Unit 08 Project 1 Homework: Professional Materials
